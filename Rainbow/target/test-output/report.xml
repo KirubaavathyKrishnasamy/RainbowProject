@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="46.749" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="work on Actionclass" name="Working on Drag and Drop" time="45.754">
+<system-out><![CDATA[
+Given User handles the drag and drop........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
